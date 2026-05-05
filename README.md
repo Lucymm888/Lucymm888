@@ -1,16 +1,16 @@
-### 🌸 Salam, I'm marwa 🌸
+### 🌸 Salam, I'm Lucy 🌸
 
 💻 **Just started my journey on GitHub** | **May 2026**
 
 ✨ **What I'm learning right now:**
- .🌱 GitHub basics 
- .🎯 How to commit every day 
- .💚 My dream: Become a professional programmer
+- 🌱 GitHub basics 
+- 🎯 How to commit every day
+- 💚 My dream: Become a professional programmer
 
- **Golden Rule**: One new green square every day 🟩
+⚔️ **Golden Rule**: One new green square every day 🟩
 
 ---
-📊GitHub Stats: ![Lucy's GitHub stats] (https://
+📊 **GitHub Stats: ![Lucy's GitHub stats] (https://
 
 <!--
 **Lucymm888/Lucymm888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
