@@ -10,7 +10,7 @@
 ⚔️ **Golden Rule**: One new green square every day 🟩
 
 ---
-📊 **GitHub Stats: ![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucymm888&show_icons=true&theme=tokyonight&hide_border=true)
+📊 **GitHub Stats: ![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucymm888&show_icons=true&theme=tokyonight&hide_border=true
 
 <!--
 **Lucymm888/Lucymm888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
