@@ -2,10 +2,9 @@
 
 💻 **Just started my journey on GitHub** | **May 2026**
 
-✨ **What I'm learning right now:**
-- 🌱 GitHub basics 
-- 🎯 How to commit every day
-- 💚 My dream: Become a professional programmer
+✨ **What I'm learning right now:**.     🌱 GitHub basics 
+  🎯 How to commit every day
+  💚 My dream: Become a professional programmer
 
 ⚔️ **Golden Rule**: One new green square every day 🟩
 
