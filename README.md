@@ -2,7 +2,7 @@
 💻 I started my journey on GitHub in May 2026. I’m currently learning the basics and trying to improve step by step every day. My goal is to become a professional programmer, so I stay consistent and work daily, with a simple challenge: adding one new green square every day 🟩. I’m learning how to use GitHub and make commits regularly, and I believe that small daily progress makes a big difference.
 💬 I learn and grow every day!
 ---
-📊 **GitHub Stats: ![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucymm888&show_icons=true&theme=tokyonight&hide_border=true
+📊 **GitHub Stats: ![Lucy's GitHub stats]https://github-readme-stats.vercel.app/api?username=Lucymm888
 ✨ Thanks for visiting my profile! ✨
 <!--
 **Lucymm888/Lucymm888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
